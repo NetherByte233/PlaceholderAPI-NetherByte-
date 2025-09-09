@@ -10,7 +10,7 @@
 [pmmp]: https://pmmp.io/
 
 # PlaceholderAPI for PocketMine‑MP (API 5)
-<p align="left" width="100%"><a href="https://github.com/NetherByte233/PlaceholderAPI-PMMP/wiki"><img src="https://netherbyte233.github.io/PlaceholderAPI-wiki/images/logo.png" alt="logo" width="512"></a></p> 
+<p align="left" width="100%"><a href="https://NetherByte233.github.io/PlaceholderAPI-wiki/"><img src="https://netherbyte233.github.io/PlaceholderAPI-wiki/images/logo.png" alt="logo" width="512"></a></p> 
 
 [![licenseImg]][license] ![releaseImg]
 
