@@ -9,7 +9,7 @@
 [releaseImg]: https://img.shields.io/badge/release-latest-brightgreen.svg
 [releaselink]: https://github.com/NetherByte233/PlaceholderAPI-NetherByte-/releases/latest
 [wikiimg]: https://img.shields.io/badge/wiki-PlaceholderAPI-blue
-[wiki]: https://netherbyte233.github.io/PlaceholderAPI-wiki/
+[wiki]: https://netherbyte233.github.io/PlaceholderAPI/
 
 [docs]: https://github.com/NetherByte233/PlaceholderAPI-PMMP/wiki
 [Youtubeimg]: https://img.shields.io/badge/YouTube-NetherByte-red
@@ -17,7 +17,7 @@
 [pmmp]: https://pmmp.io/
 
 # PlaceholderAPI for PocketMine‑MP (API 5)
-<p align="left" width="100%"><a href="https://NetherByte233.github.io/PlaceholderAPI-wiki/"><img src="https://netherbyte233.github.io/PlaceholderAPI-wiki/assets/logo.png" alt="logo" width="512"></a></p> 
+<p align="left" width="100%"><a href="https://NetherByte233.github.io/PlaceholderAPI/"><img src="https://netherbyte233.github.io/PlaceholderAPI/assets/logo.png" alt="logo" width="512"></a></p> 
 
 [![licenseImg]][license] [![releaseImg]][releaselink] [![PoggitSubmitted]][PoggitLink] [![PoggitVer]][PoggitLink] [![wikiimg]][wiki] [![Youtubeimg]][NetherByte]
 
