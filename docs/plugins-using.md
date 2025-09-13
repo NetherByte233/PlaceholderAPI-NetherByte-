@@ -2,7 +2,7 @@
 
 This is a non-exhaustive list of plugins that provide placeholders via Providers or consume placeholders in their features. To enable a plugin’s placeholders, install its identifier using `/papi download <id>`.
 If your plugin isnt listed here, then you can do it by creating a fork of this repo and opening a PR.
-For more info, read the [README Wiki](#README.md).
+For more info, read the [README Wiki](https://github.com/NetherByte233/PlaceholderAPI/blob/wiki/README.md).
 
 ## A–Z Index
 [ A ](#a) · [ B ](#b) · [ C ](#c) · [ D ](#d) · [ E ](#e) · [ F ](#f) · [ G ](#g) · [ H ](#h) · [ I ](#i) · [ J ](#j) · [ K ](#k) · [ L ](#l) · [ M ](#m) · [ N ](#n) · [ O ](#o) · [ P ](#p) · [ Q ](#q) · [ R ](#r) · [ S ](#s) · [ T ](#t) · [ U ](#u) · [ V ](#v) · [ W ](#w) · [ X ](#x) · [ Y ](#y) · [ Z ](#z)
