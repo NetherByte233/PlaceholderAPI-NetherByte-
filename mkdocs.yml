@@ -1,9 +1,8 @@
-site_name: PlaceholderAPI-wiki
-site_url: https://netherbyte233.github.io/PlaceholderAPI-wiki/
+site_name: PlaceholderAPI
+site_url: https://netherbyte233.github.io/PlaceholderAPI/
 
-repo_name: PlaceholderAPI-wiki
-repo_url: https://github.com/NetherByte233/PlaceholderAPI-wiki
-
+repo_name: PlaceholderAPI
+repo_url: https://github.com/NetherByte233/PlaceholderAPI
 theme:
   name: material
   logo: assets/papi.png
